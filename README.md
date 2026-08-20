@@ -20,5 +20,11 @@ The task was to create a report showing KPIs that provided the sales team with i
 It is required to create card and multi-row card visualizations, as well as a waterfall and ribbon chart in Microsoft Power BI.
 
 ## Instruction solution
-Load the data
+- Load the data
+- Compute the KPI metrics and create visualizations
+- Communicate results
+- Save the report
+
+## FINAL OUTPUT
+I successfully created KPI visualizations, such as total sales, average sales, and total orders using card and multi-row card visuals. The usage of waterfall and ribbon charts allowed me to track the changes in sales over time, understand how marketing expenses influence sales, and monitor the ranking changes of different sales regions. My analysis revealed valuable insights for the sales team. 
 
