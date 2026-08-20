@@ -1,4 +1,5 @@
-# Introduction
+# Indicating business performance
+## Introduction
 Indicating business performance, you put your knowledge of data visualization into practice by computing and creating KPI-related visualizations for Adventure Works’ sales team.
 
 ## KPIs
@@ -14,3 +15,7 @@ What sales region had the highest sales during this time period, and how did the
 What is the performance of different sales regions with their advertising campaigns?
 
 It is required to create card and multi-row card visualizations, as well as a waterfall and ribbon chart in Microsoft Power BI.
+
+## Instruction solution
+Load the data
+
