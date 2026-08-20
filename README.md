@@ -6,6 +6,8 @@ Indicating business performance, you put your knowledge of data visualization in
 - <a href="https://github.com/Ebenzbelo/Indicating-Business-Intelligence-/tree/main">Business Performance Report</a>
 
 - Business Performance Report.png
+  <img width="1124" height="607" alt="image" src="https://github.com/user-attachments/assets/3f391980-3f26-49ec-94af-7e3afde9d95f" />
+
 
 ## KPIs
 
