@@ -2,6 +2,9 @@
 ## Introduction
 Indicating business performance, you put your knowledge of data visualization into practice by computing and creating KPI-related visualizations for Adventure Works’ sales team.
 
+## Report shown
+- <a href="https://github.com/Ebenzbelo/Indicating-Business-Intelligence-/tree/main">Business Performance Report</a>
+
 ## KPIs
 
 The task was to create a report showing KPIs that provided the sales team with insights into their performance in the last three months. In particular, the task was to create a report that answered various KPI-related questions:
