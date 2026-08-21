@@ -1,4 +1,4 @@
-# Indicating business performance
+# Indicating Business Performance (Using Power BI)
 ## Introduction
 Indicating business performance, you put your knowledge of data visualization into practice by computing and creating KPI-related visualizations for Adventure Works’ sales team.
 
